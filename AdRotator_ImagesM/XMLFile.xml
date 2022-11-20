@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+  <Ad>
+    <ImageUrl>http://localhost:4683/img/6.jpg</ImageUrl>
+    <Impressions>20</Impressions>
+    <NavigateUrl>https:Facebook.com</NavigateUrl>
+    <AlternateText>Loading...</AlternateText>
+  </Ad>
+  <Ad>
+    <ImageUrl>http://localhost:4683/img/1.jpg</ImageUrl>
+    <Impressions>20</Impressions>
+    <NavigateUrl>https:Instagram.com</NavigateUrl>
+    <AlternateText>Loading...</AlternateText>
+  </Ad>
+  <Ad>
+    <ImageUrl>http://localhost:4683/img/2.jpg</ImageUrl>
+    <Impressions>20</Impressions>
+    <NavigateUrl>https:Twitter.com</NavigateUrl>
+    <AlternateText>Loading...</AlternateText>
+  </Ad>
+  <Ad>
+    <ImageUrl>http://localhost:4683/img/3.jpg</ImageUrl>
+    <Impressions>20</Impressions>
+    <NavigateUrl>https:You.com</NavigateUrl>
+    <AlternateText>Loading...</AlternateText>
+  </Ad>
+  <Ad>
+    <ImageUrl>http://localhost:4683/img/4.jpg</ImageUrl>
+    <Impressions>20</Impressions>
+    <NavigateUrl>https:Google.com</NavigateUrl>
+    <AlternateText>Loading...</AlternateText>
+  </Ad>
+</Advertisements>
